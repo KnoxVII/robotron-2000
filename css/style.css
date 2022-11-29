@@ -9,9 +9,10 @@
 }
 
 body {
-    background: url(../img/fundo.jpg);
-    background-position: center center;
-    background-size: cover cover;
+    background-image: url(../img/fundo-amarelo.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
     padding: 0;
     margin: 0;
     font-weight: 300;
